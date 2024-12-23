@@ -62,10 +62,10 @@ The CDTMP system consists of several key components:
 
 ---
 
-## 主要现细节
+## Implementation Details
 
 <details>
-<summary>点击展开/收起伪代码实现</summary>
+<summary>Click to expand/collapse pseudocode implementation</summary>
 
 <div style="max-height: 500px; overflow-y: auto; padding: 10px; border: 1px solid #ccc; border-radius: 5px; background-color: #f8f9fa;">
 
