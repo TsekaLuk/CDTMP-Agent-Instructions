@@ -60,9 +60,12 @@ CDTMP 系统由以下关键组件构成：
 
 ---
 
-## 主要现细节
+## 主要实现细节
 
-以下伪代码展示了 CDTMP 系统的核心实现：
+<details>
+<summary>点击展开/收起伪代码实现</summary>
+
+<div style="max-height: 500px; overflow-y: auto; padding: 10px; border: 1px solid #ccc; border-radius: 5px; background-color: #f8f9fa;">
 
 ```python
 // Pseudocode for Building an Effective Intelligent Agent
@@ -1086,7 +1089,8 @@ SENSITIVE_INFORMATION = "sensitive_data_here"
 main(USER_INPUT, USER_CREDENTIALS, CURRENT_USER, SENSITIVE_INFORMATION)
 ```
 
-此实现展示了 CDTMP 的核心功能，包括任务管理、集成能力、安全特性和文档要求。
+</div>
+</details>
 
 ---
 

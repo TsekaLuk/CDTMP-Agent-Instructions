@@ -62,9 +62,12 @@ The CDTMP system consists of several key components:
 
 ---
 
-## Main Implementation Details
+## 主要现细节
 
-The following pseudocode demonstrates the core implementation of the CDTMP system:
+<details>
+<summary>点击展开/收起伪代码实现</summary>
+
+<div style="max-height: 500px; overflow-y: auto; padding: 10px; border: 1px solid #ccc; border-radius: 5px; background-color: #f8f9fa;">
 
 ```python
 // Pseudocode for Building an Effective Intelligent Agent
@@ -1088,7 +1091,8 @@ SENSITIVE_INFORMATION = "sensitive_data_here"
 main(USER_INPUT, USER_CREDENTIALS, CURRENT_USER, SENSITIVE_INFORMATION)
 ```
 
-This implementation demonstrates the core functionality of CDTMP, including task management, integration capabilities, security features, and documentation requirements.
+</div>
+</details>
 
 ---
 
