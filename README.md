@@ -1,6 +1,6 @@
 # Cognitive Decision and Task Management Protocol (CDTMP)
 
-中文 | [English](README_zh.md)
+[中文](README_zh.md) | English
 
 ![License](https://img.shields.io/github/license/tsekaluk/CDTMP-Agent-Instructions)
 

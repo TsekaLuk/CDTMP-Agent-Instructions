@@ -1,6 +1,6 @@
 # 认知决策与任务管理协议 (Cognitive Decision and Task Management Protocol, CDTMP)
 
-[中文](README.md) | English
+中文 | [English](README.md)
 
 ![License](https://img.shields.io/github/license/tsekaluk/CDTMP-Agent-Instructions)
 
