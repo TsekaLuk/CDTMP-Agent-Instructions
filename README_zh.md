@@ -1,3 +1,5 @@
+![CDTMP封面](CDTMP.png)
+
 # 认知决策与任务管理协议 (Cognitive Decision and Task Management Protocol, CDTMP)
 
 中文 | [English](README.md)

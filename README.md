@@ -1,3 +1,5 @@
+![CDTMP Cover](CDTMP.png)
+
 # Cognitive Decision and Task Management Protocol (CDTMP)
 
 [中文](README_zh.md) | English
